@@ -1,8 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Overlock&duration=4000&size=30&color=1AF732&center=true&vCenter=true&lines=Hi+There+%F0%9F%91%8B;I'm+Front-End+Developer.;I'm+Mobile+Application+Developer.;Nice+to+meet+you!">
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Amirmohammad Nemati</h1>
+<h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
